@@ -1,0 +1,17 @@
+# IDE Config
+.vscode/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Python Virtual Environment
+venv/
+
+# Python egg metadata, regenerated from source files by setuptools.
+*.egg-info/
+build/
+dist/
+
+# tox Enviroment
+.tox/
