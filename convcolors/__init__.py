@@ -1,6 +1,8 @@
 import math
 
 
+__version__ = "1.0.0"
+
 def rgb_to_xyz(rgb):
     """
     Convert tuple from the sRGB color space to the CIE XYZ color space.
