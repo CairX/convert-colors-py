@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="convcolors",
-    version="2.1.0",
+    version="2.2.0",
     description="Convert colors between different color spaces.",
     long_description=open("README.rst").read(),
     long_description_content_type="text/x-rst",
